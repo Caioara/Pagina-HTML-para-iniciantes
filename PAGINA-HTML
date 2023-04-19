@@ -140,6 +140,11 @@
         </div>
         <div style="background-color: lightgreen;width: 33.33%;height: 200px;">
             <h3>Outros Links</h3>
+            <ul>
+                <li><a href="https://novoportal.cruzeirodosul.edu.br/" target="_blank">Área do Aluno(UNIPE)</a></li>
+                <li><a href="https://www.mreviews.com.br/2170/top-10-livros-para-aprender-a-programar-na-linguagem-html" target="_blank">Matériais Externos</a></li>
+                <li><a href="https://www.youtube.com/live/jfKfPfyJRdk?feature=share" target="_blank">music to help with programming</a></li>
+            </ul>
         </div>
     </footer> 
     <footer>
