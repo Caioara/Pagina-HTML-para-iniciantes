@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politica de Privacidade.html</title>
+</head>
+<body>
+    <header style="background-color: aqua; text-align: center; padding: 10px 0; font-size: 30px;"inde="topo"><!--cabeçalho--> 
+        <h1>HTML<sup>Linguagem de Marcação de Hipertexto</sup></h1>
+        <h3>Tutorial para iniciantes</h3>
+        </header>
+        <nav>
+            <ul style="list-style: none; display: flex; justify-content: space-between; background-color: aqua; padding: 10px;">
+                <li style="flex-grow: 1;"><a href="index.html" style="color:rgb(0, 0, 0); text-decoration:none;">Início</a></li>
+                <li style="flex-grow: 1;"><a href="index.html#html" style="color:rgb(0, 0, 0); text-decoration:none;">HTML</a></li>
+                <li style="flex-grow: 1;"><a href="index.html#tabela" style="color:rgb(0, 0, 0); text-decoration:none;">Tábela e Listas</a></li>
+                <li style="flex-grow: 1;"><a href="index.html#sobre" style="color:rgb(0, 0, 0); text-decoration:none;">Sobre CSS, HTML e JS</a></li>
+                <li style="flex-grow: 1;"><a href="index.html#rodape" style="color:rgb(0, 0, 0); text-decoration:none;">Links</a></li>
+                <li style="flex-grow: 1;"><a href="contato.html" style="color:rgb(0, 0, 0); text-decoration:none;">Contatos</a></li>
+            </ul>
+        </nav>
+        <p>Termos tirado da Wikipedia</p>
+        <h1>Politica de Privacidade</h1>
+        <p>A privacy policy is a statement or legal document (in privacy law) that discloses some or all of the ways a party gathers, uses, discloses, and manages a customer or client's data.Personal information can be anything that can be used to identify an individual, not limited to the person's name, address, date of birth, marital status, contact information, ID issue, and expiry date, financial records, credit information, medical history, where one travels, and intentions to acquire goods and services.In the case of a business, it is often a statement that declares a party's policy on how it collects, stores, and releases personal information it collects. It informs the client what specific information is collected, and whether it is kept confidential, shared with partners, or sold to other firms or enterprises. Privacy policies typically represent a broader, more generalized treatment, as opposed to data use statements, which tend to be more detailed and specific.</p> 
+    <form action="index.html" method="get"> 
+        <input type="checkbox"> 
+        <label>Concordo com os Termos de Privacidade do Site</label><br>
+        <input type="submit" value="Concordo" required>
+    </form>    
+</body>
+</html>
